@@ -27,13 +27,13 @@ You can also set up your own JSON API using either [Drupal + Services](https://d
 
 Developer Tools and Resources
 -----------------------------
-There are many resources you can use to help you develop your app. Though there are a lot, don't get caught up in the vastness! Some of these you won't event need, but just know that they are available to you.
+There are many resources you can use to help you develop your app. Though there are a lot, don't get caught up in the vastness or you'll lose out on building something awesome! Some of these you won't event need, but just know that they are available to you.
 
 ### Revision Control
 * [Github](http://github.com)
 * [BitBucket](http://bitbucket.org)
 
-### Platforms
+### Free Platforms
 * [Amazon Web Services (Free Tier)](http://aws.amazon.com/free/)
 * [OpenShift](https://www.openshift.com/)
 * [Pantheon (Drupal Hosting)](https://www.getpantheon.com/)
